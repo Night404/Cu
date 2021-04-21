@@ -1,0 +1,30 @@
+{
+  "name": "None",
+  "description": "A Multipurpose Discord bot (more than 60 commands) that uses the Discordjs API!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "amethyste-api": "^1.1.4",
+    "canvacord": "^5.0.8",
+    "node-fetch": "^2.6.1",
+    "discord-image-generation": "^1.4.5",
+    "discord.js": "^12.5.1",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "snekfetch": "^4.0.4",
+    "superagent": "^6.1.0",
+    "parse-ms": "^2.1.0",
+    "pretty-ms": "^7.0.1",
+    "nekos.life": "^2.0.7",
+    "anime-facts": "^3.2.8",
+    "got": "^11.8.1",
+    "alexflipnote.js": "^2.3.6",
+    "giphy-random": "^2.0.8",
+    "quickmongo": "^3.0.2"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
